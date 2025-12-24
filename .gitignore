@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Model / cache (edit if needed)
+models/
+checkpoints/
+weights/
+
+# Secrets
+.env
